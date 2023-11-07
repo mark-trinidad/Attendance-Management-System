@@ -257,9 +257,12 @@ header
   color: #1e1e1e!important;
 }
 
-.background-header .logo,
+
 .background-header .main-nav .nav li a {
   color: #1e1e1e!important;
+}
+.background-header .main-nav .logo {
+  color: #fb5849;
 }
 
 .background-header .main-nav .nav li:hover a {
@@ -990,12 +993,7 @@ section.upcoming-meetings .categories .main-button-red a {
   border-bottom-left-radius: 20px;
 }
 
-.meeting-item .down-content .date {
-  float: left;
-  text-align: center;
-  display: inline-block;
-  margin-right: 20px;
-}
+
 
 .meeting-item .down-content .date h6 {
   font-size: 13px;
