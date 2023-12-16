@@ -72,7 +72,7 @@ To setup the database
      password: `1234`
 grant all privelleges and add the user
 6. Create a database called `attendance`
-7. Import thesql file named database located in the project file 
+7. Import thesql file named `database` located in the project file 
 
 ## Usage
 
