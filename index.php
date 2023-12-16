@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
     <link rel="stylesheet" href="assets/css/homestyle.css">
+    <link rel="stylesheet" href="style.css">
     <title>Attendance Management System </title>
 </head>
 <body>
@@ -35,7 +36,7 @@
                     <nav class="padding">
                         <h1>UNIVERSITY OF <span style="color: #ff6a00;">BOLTON</span></h1>
                     <ul>
-                        <li><a href="index.html">HOME</a></li>
+                        <li><a href="#">HOME</a></li>
                         <li><a href="courses.html">COURSES</a></li>
                         <li><a href="AboutUs.html">ABOUT US</a></li>
                         

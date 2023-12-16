@@ -15,7 +15,7 @@
 
     <!-- Additional CSS Files -->
     
-    <link rel="stylesheet" href="assets\css\homestyle.css">
+    <link rel="stylesheet" href="style.css">
    
     <link rel="stylesheet" href="assets\css\loginstyle.css" />
 
