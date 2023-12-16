@@ -98,7 +98,7 @@
             </div>
             <div class="slider">
                 <div class="slide">
-                    <img src="assets/imagess/Software-Engineering.jpg" alt="">
+                    <a href="login.php"> <img src="assets/imagess/Software-Engineering.jpg" alt=""></a>
                     <p>BEng Software Engineering</p>
                     <div class="lower">
                         <div class="stars">
@@ -112,7 +112,7 @@
                     </div>
                 </div>
                 <div class="slide">
-                    <img src="assets/imagess/Mechanical-Engineering.jpg" alt="">
+                    <a href="login.php"> <img src="assets/imagess/Mechanical-Engineering.jpg" alt=""></a>
                     <p>BEng Mechanical Engineering</p>
                     <div class="lower">
                         <div class="stars">
@@ -126,7 +126,7 @@
                     </div>
                 </div>
                 <div class="slide">
-                    <img src="assets/imagess/Computing.jpg" alt="">
+                    <a href="login.php"><img src="assets/imagess/Computing.jpg" alt=""></a>
                     <p>BSc Computing</p>
                     <div class="lower">
                         <div class="stars">
@@ -139,7 +139,7 @@
                     </div>
                 </div>
                 <div class="slide">
-                    <img src="assets/imagess/Electrical-Engineering.jpg" alt="">
+                    <a href="login.php"> <img src="assets/imagess/Electrical-Engineering.jpg" alt=""></a>
                     <p>BEng Electrical Engineering</p>
                     <div class="lower">
                         <div class="stars">
