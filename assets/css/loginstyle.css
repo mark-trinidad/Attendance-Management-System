@@ -10,8 +10,8 @@
 }
 
 body {
-  background-image:  url('/assets/images/pexels-tamás-mészáros-12064.jpg');;
-  height: 100vh;
+  background-image:  url('../../assets/images/bg.jpg');;
+ 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -164,9 +164,9 @@ nav a:hover {
 }
 .login h2 
 {
-	font-size: 2em;
+	font-size: 4em;
 	color: #fff;
-	background-color: #0000009e;
+	text-shadow: 2px 2px #000000;
 }
 .login .inputBx 
 {

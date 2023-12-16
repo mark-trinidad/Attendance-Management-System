@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>LOGIN</title>
     
     <link href="https://fonts.google.com/specimen/Orelega+One?query=ele">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -73,7 +73,7 @@
             <div class="container padding">
     
                 <div class="head">
-                    <p>Thid website is created by <span>Jawad, Abrar, Zaid, Mark and Abdus</span> </p>
+                    <p>This website is created by <span>Jawad, Abrar, Zaid, Mark and Abdus</span> </p>
                 </div>
                 <div class="icons">
                     <i class="fab fa-twitter"></i>
@@ -90,18 +90,7 @@
                 <div class="content">
                     <div class="nav">
     
-                        <nav class="padding">
-                            <h1>University of <span style="color: #ff6a00;">Bolton</span></h1>
-                        <ul>
-                            <li><a href="index.php">HOME</a></li>
-                            <li><a href="Courses.html">Courses</a></li>
-                            <li><a href="AboutUs.html">About us</a></li>
-                            
-                            <div class="scroll-to-section login-button"><a href="#">Log in</a></div>
-                              </li>
-                        </ul>
-                        </nav>
-
+                        
 
       <!-- Move the login form content here -->
     <!-- Logo starts here -->
@@ -137,7 +126,7 @@
             </div>
     </form>
             <div class="links">
-                <a href="#">Forget Password</a>
+                <a href="#"></a>
             </div>
         </div>
       </div>
